@@ -8,13 +8,13 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 """
 
 class script(object):
-    START_TXT = """👋 𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 {},\n 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽..."""
+    START_TXT = """👋 ｈｅｌｏ {},
+ｍｙ ｎａｍｅ ｉｓ{},\n ｉ ｃａｎ ｐｒｏｖｉｄｅ ｍｏｖｉｅｓ , ａｄｄ ｍｅ ｔｏ ｙｏｕｒ ｇｒｏｕｐ..."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 </a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>
+✯ ｇｒｏｕｐ : <a href=https://t.me/Cinemaflix_movies> ᴊᴏɪɴ ɴᴏᴡ </a>
+✯ ｍａｄｅ ｂｙ: <a href=https://t.me/ualexy>αlєхч</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
@@ -22,10 +22,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - This is a  <a href=https://github.com/EvamariaTG/EvaMaria>Eva Mari</a> clone Project
-- All Creditz ❣️ <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a> ❣️ UYIR 🔥🔥
-- original source code - <a href=https://github.com/Aadhi000/Ajax-Extra-Features>Ajax-Extra-Features</a> 
+- All Creditz ❣️ <a href=https://t.me/ccg_ott>CCG</a> ❣️ UYIR 🔥🔥
+- original source code - <a href=https://t.me/+toKVJWjWWkYzNjA1</a> 
 
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/+toKVJWjWWkYzNjA1>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
